@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plugin_grezzo", "plugin_gre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plugin_alpha_dream", "plugin_alpha_dream\plugin_alpha_dream.csproj", "{4D6CFA84-383D-463A-A209-35FD239AD6C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plugin_mcdonalds", "plugin_mcdonalds\plugin_mcdonalds.csproj", "{355D93A8-51FA-49C0-8708-768542941172}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plugin_mcdonalds", "plugin_mcdonalds\plugin_mcdonalds.csproj", "{355D93A8-51FA-49C0-8708-768542941172}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plugin_skip_ltd", "plugin_skip_ltd\plugin_skip_ltd.csproj", "{BABB2A55-4FB1-4047-A727-6BD3BEDC211A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{355D93A8-51FA-49C0-8708-768542941172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{355D93A8-51FA-49C0-8708-768542941172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{355D93A8-51FA-49C0-8708-768542941172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABB2A55-4FB1-4047-A727-6BD3BEDC211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABB2A55-4FB1-4047-A727-6BD3BEDC211A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABB2A55-4FB1-4047-A727-6BD3BEDC211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABB2A55-4FB1-4047-A727-6BD3BEDC211A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
